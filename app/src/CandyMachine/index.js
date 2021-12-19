@@ -385,8 +385,7 @@ useEffect(() => {
     // Only show this if machineStats is available
     machineStats && (
       <div className="machine-container">
-        {renderDropTimer()}
-        <p>{`Drop Date: ${machineStats.goLiveDateTimeString}`}</p>
+        {renderDropTimer()}        
         <p>{`Items Minted: ${machineStats.itemsRedeemed} / ${machineStats.itemsAvailable}`}</p>
          {/* Check to see if these properties are equal! */}
          {
