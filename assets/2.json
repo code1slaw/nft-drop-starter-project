@@ -1,0 +1,23 @@
+{
+    "name": "Luna",
+    "symbol": "",
+    "image": "2.png",
+    "collection": {
+        "name": "HoMM 3 NFT",
+        "family": "Heroes of Might and Magic"
+     },
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "HkQF1QyRkPWhr9Ck2UQU44c7H5YD4TZQmaw6KDwPp79",
+          "share": 100
+        }
+      ]
+    }
+  }
